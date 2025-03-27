@@ -170,9 +170,13 @@ View reports
 ---
 
 ## **🧑‍🏫 GitHub Classroom Exercises**
+
 ✅ [🏛️ Smart City Utility Portal](https://github.com/FW-Zalando-Java-Backend-Engineer/Smart-City-Utility-Portal)
+
 ✅ [🚘 Smart Toll Management System](https://github.com/FW-Zalando-Java-Backend-Engineer/Smart-Toll-Management-System)
+
 ✅ [🏛️ Smart City Utility Portal Solution - code ](https://github.com/FW-Zalando-Java-Backend-Engineer/Smart-City-Utility-Portal/tree/solution)
+
 ✅[🏛️ Smart City Utility Portal Solution - Live recording](https://us06web.zoom.us/rec/share/A-SoJdODwwzqxazDnqT6daxVLI7wsIJP4uCqbktyrXax9hlrNtlLxpCurh9g1KY.p0amjoud3cvvA-2m)
 
 ---
